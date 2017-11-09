@@ -1,7 +1,7 @@
 # data-512-final-project: 
 **Need of the day: People Analytics**
 
-Repository for Final Project in Data 512. Please see [project plan]('https://github.com/dipsuw/data-512-final-project/blob/master/a3_final_project_plan.ipynb') for details on this project.
+Repository for Final Project in Data 512. Please see [project plan]('https://github.com/dipsuw/data-512-final-project') a3_final_project_plan.ipynb for details on this project.
 
 ## Goal of the project:
 
