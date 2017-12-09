@@ -5,7 +5,7 @@ This repository is for Final Project in Data 512 class. Please see file **a3_fin
 
 ## Abstract:
 
-The goal of this project is to find a systematic pattern or trend (using employee data) and provide actionable insights towards enhancing employee retention. **Research Questions**: Following research questions are answered by applying data science techniques on employee data:
+The goal of this project is to find a systematic pattern or trend (using employee data) and provide actionable insights towards enhancing employee retention. Following research questions are answered by applying data science techniques on employee data:
  * Question 1: Which employees are most likely to quit?
  * Question 2: What are the reasons for the employees to quit?
  * Question 3: How can a retention plan be created to enrich these employees?
@@ -14,7 +14,6 @@ The research successfully helped in exploring reasons on voluntary quits by empl
 * Employees promoted in last 5 years are more likely to stay
 * Salary is not strongly correlated to attrition 
 * Last evaluation for employees makes no difference in their decision to stay 
-
 
 ## Methodology
 There are four major modules in this project. 
