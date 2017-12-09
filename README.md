@@ -17,6 +17,7 @@ Following image depicts how these four modules interact with each other.
 
 ## Data
 Fields in the dataset(HR_comms_sep.csv) include:
+
 Column name | Value | Description
 --- | --- | ---
 satisfaction_level | numeric | satisfaction level of each employee filled thru survey
@@ -31,7 +32,7 @@ sales | categorical | department of employee(name changed to department and data
 left | numeric | binary value: 0 for employee stayed and 1 for not stayed (name changed to attrition)
 
 ## License of the source data
-This dataset is released under CC BY-SA 4.0, the details of this license can be found [here]('https://creativecommons.org/licenses/by-sa/4.0/')
+This dataset is released under CC BY-SA 4.0, the details of this license can be found here(https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## License for this project
 * MIT License(https://opensource.org/licenses/MIT)
