@@ -1,7 +1,7 @@
 # data-512-final-project: 
 **Need of the day: People Analytics**
 
-Repository for Final Project in Data 512. Please see file **a3_final_project_plan.ipynb** for project plan and file **d512_final_project_report** for detailed code and report.
+Repository for Final Project in Data 512. Please see file **a3_final_project_plan.ipynb** for project plan and file **d512_final_project_report.ipynb** for detailed code and report.
 
 ## Goal of the project:
 
