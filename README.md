@@ -3,12 +3,18 @@ This repository is for Final Project in Data 512 class. Please see file **a3_fin
 
 # Need of the day: People Analytics
 
-## Goal of the project:
+## Abstract:
 
-The goal of this project is to find a systematic pattern or trend (using employee data) and provide actionable insights towards enhancing employee retention. **Research Questions**: Goal of this research is to apply data science techniques on employee data and answer the following questions:
+The goal of this project is to find a systematic pattern or trend (using employee data) and provide actionable insights towards enhancing employee retention. **Research Questions**: Following research questions are answered by applying data science techniques on employee data:
  * Question 1: Which employees are most likely to quit?
  * Question 2: What are the reasons for the employees to quit?
  * Question 3: How can a retention plan be created to enrich these employees?
+The research successfully helped in exploring reasons on voluntary quits by employees. Using logistic regression on this dataset, we could predict employee attrition with an accuracy of ~76%. The probabilities calculated for each employee can be further used to enrich employees by providing personalized support and benefits. This is a win-win situation for both employer and employee. Significant findings from the research are summarized below:
+* Satisfaction level of employees is the most important factor which determines employee turnover
+* Employees promoted in last 5 years are more likely to stay
+* Salary is not strongly correlated to attrition 
+* Last evaluation for employees makes no difference in their decision to stay 
+
 
 ## Methodology
 There are four major modules in this project. 
