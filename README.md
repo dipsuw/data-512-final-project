@@ -13,7 +13,7 @@ The goal of this project is to find a systematic pattern or trend (using employe
 ## Methodology
 There are four major modules in this project. 
 Following image depicts how these four modules interact with each other.
-<img src="images/architecture.png" width="500" height="500" align="middle" >
+![alt text](https://github.com/dipsuw/data-512-final-project/blob/master/images/architecture.PNG)
 
 ## Data
 Fields in the dataset(HR_comms_sep.csv) include:
